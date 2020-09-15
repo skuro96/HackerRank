@@ -1,5 +1,4 @@
 read n
-
 sum=0
 for ((i; i < $n; i++)); do
     read tmp
